@@ -1,0 +1,42 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="768" height="1024" currentTimeline="1" xflVersion="2.7" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 15.1 build 210" majorVersion="15" minorVersion="1" buildNumber="210" viewAngle3D="72.0268734800715" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="ane.tmp.unzipped.folder" v="C:\Users\KHESHT~1\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
+          <PD n="com.air.sdk.path" v="C:\Kheshti\Export\Air\AdobeAIRSDK_29"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="28633" publishTime="1531914242"/>
+          <PublishItem publishSize="28632" publishTime="1531914190"/>
+          <PublishItem publishSize="28632" publishTime="1531913882"/>
+          <PublishItem publishSize="28639" publishTime="1531913880" publishDebug="true"/>
+          <PublishItem publishSize="28622" publishTime="1531913769"/>
+          <PublishItem publishSize="28622" publishTime="1531913768" publishDebug="true"/>
+          <PublishItem publishSize="28623" publishTime="1531913633"/>
+          <PublishItem publishSize="28631" publishTime="1531913632" publishDebug="true"/>
+          <PublishItem publishSize="28630" publishTime="1531913611"/>
+          <PublishItem publishSize="28624" publishTime="1531913609" publishDebug="true"/>
+          <PublishItem publishSize="28622" publishTime="1531913606" publishDebug="true"/>
+          <PublishItem publishSize="28638" publishTime="1531913544"/>
+          <PublishItem publishSize="28630" publishTime="1531913543" publishDebug="true"/>
+          <PublishItem publishSize="28632" publishTime="1531912733"/>
+          <PublishItem publishSize="28641" publishTime="1531912359"/>
+          <PublishItem publishSize="28631" publishTime="1531912358" publishDebug="true"/>
+          <PublishItem publishSize="28608" publishTime="1531912048" publishDebug="true"/>
+          <PublishItem publishSize="86" publishTime="1531912037" publishDebug="true"/>
+          <PublishItem publishSize="28669" publishTime="1531912008" publishDebug="true"/>
+          <PublishItem publishSize="86" publishTime="1531911987" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

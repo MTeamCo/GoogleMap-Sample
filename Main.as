@@ -21,19 +21,20 @@
 			Map.setup('Data/','markerAndPanTo.html',true);
 			displayMapOption.area = new Rectangle(0,0,768,1024);
 			var markerList:Vector.<Marker> = new Vector.<Marker>();
-			markerList.push(new Marker(62.323907,-150.109291));
+			
+			markerList.push(new Marker(35.7232423,51.3862085));
 			displayMapOption.showAllMarker = true;
 			displayMapOption.location = markerList;
-			displayMapOption.defaultZoom = 11;
+			displayMapOption.defaultZoom = 17;
 			displayMapOption.mapTypeId = DisplayMapOption.mapTypeId.SATELLITE;
-			addmarker.setup(this,displayMapOption);
 			
 			
-		/*	var _file:File = File.applicationDirectory.resolvePath('Data/Tmu.png'); 
+			/*var _file:File = File.applicationDirectory.resolvePath('Data/icon.png'); 
 			var _image:ByteArray = FileManager.loadFile(_file);
 				var _bas64:Base64Encoder = new Base64Encoder();
-				_bas64.encodeBytes(_image);
-				trace(_bas64.drain());*/
+				 _bas64.encodeBytes(_image);*/
+				 displayMapOption.imageUrl = 'http://uupload.ir/files/wvga_tmu.png';
+			addmarker.setup(this,displayMapOption);
 		}
 
 	}

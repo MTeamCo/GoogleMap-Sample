@@ -1,0 +1,12 @@
+swfname=Kianse
+exportname=Kianse
+provision_dev=KianseDev
+provision_dist=KianseDist
+provision_adhoc=KianseAdHoc
+native_folder=-extdir "C:\Kheshti\GlobalSrc\MTeamNatives\native"
+dist_xml_name=Kianse-app-ios-dist
+dev_xml_name=Kianse-app-ios-dev
+android_xml_name=Kianse-app-Android
+contents=Data AppIconsForPublish
+ios_contents=Default.png Default@2x.png Default-568h@2x.png Default-568h-Portrait@2x.png Default-Landscape.png Default-Landscape@2x~ipad.png Default-Landscape~ipad.png Default-Portrait.png Default-Portrait@2x~ipad.png Default-Portrait~ipad.png
+certificate_pass=NewPass123$
