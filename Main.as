@@ -25,7 +25,7 @@
 			markerList.push(new Marker(35.7232423,51.3862085));
 			displayMapOption.showAllMarker = true;
 			displayMapOption.location = markerList;
-			displayMapOption.defaultZoom = 17;
+			displayMapOption.defaultZoom = 16;
 			displayMapOption.mapTypeId = DisplayMapOption.mapTypeId.SATELLITE;
 			
 			
@@ -33,7 +33,8 @@
 			var _image:ByteArray = FileManager.loadFile(_file);
 				var _bas64:Base64Encoder = new Base64Encoder();
 				 _bas64.encodeBytes(_image);*/
-				 displayMapOption.imageUrl = 'http://uupload.ir/files/wvga_tmu.png';
+		//	displayMapOption.imageUrl = 'http://uupload.ir/files/25fo_pardismarkazi2.png';
+				 displayMapOption.imageUrl = 'http://uupload.ir/files/21sp_pardismarkazi.jpg';
 			addmarker.setup(this,displayMapOption);
 		}
 

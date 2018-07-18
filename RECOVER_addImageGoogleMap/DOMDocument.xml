@@ -18,6 +18,13 @@
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="28638" publishTime="1531915609"/>
+          <PublishItem publishSize="28637" publishTime="1531915607" publishDebug="true"/>
+          <PublishItem publishSize="28634" publishTime="1531914551"/>
+          <PublishItem publishSize="28634" publishTime="1531914499"/>
+          <PublishItem publishSize="28632" publishTime="1531914449"/>
+          <PublishItem publishSize="28634" publishTime="1531914364"/>
+          <PublishItem publishSize="28634" publishTime="1531914309"/>
           <PublishItem publishSize="28633" publishTime="1531914242"/>
           <PublishItem publishSize="28632" publishTime="1531914190"/>
           <PublishItem publishSize="28632" publishTime="1531913882"/>
@@ -31,12 +38,5 @@
           <PublishItem publishSize="28622" publishTime="1531913606" publishDebug="true"/>
           <PublishItem publishSize="28638" publishTime="1531913544"/>
           <PublishItem publishSize="28630" publishTime="1531913543" publishDebug="true"/>
-          <PublishItem publishSize="28632" publishTime="1531912733"/>
-          <PublishItem publishSize="28641" publishTime="1531912359"/>
-          <PublishItem publishSize="28631" publishTime="1531912358" publishDebug="true"/>
-          <PublishItem publishSize="28608" publishTime="1531912048" publishDebug="true"/>
-          <PublishItem publishSize="86" publishTime="1531912037" publishDebug="true"/>
-          <PublishItem publishSize="28669" publishTime="1531912008" publishDebug="true"/>
-          <PublishItem publishSize="86" publishTime="1531911987" publishDebug="true"/>
      </publishHistory>
 </DOMDocument>
