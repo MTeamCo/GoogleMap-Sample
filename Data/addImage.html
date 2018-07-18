@@ -17,7 +17,7 @@
         padding: 0;
       }
     </style>
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkbBuVTlafh74gzZnifaEL7cglAMv_Drs&callback=initMap&language=fa&libraries=places&callback=initAutocomplete"></script>
     <script>
       // This example creates a custom overlay called USGSOverlay, containing
       // a U.S. Geological Survey (USGS) image of the relevant area on the map.
@@ -46,9 +46,10 @@
             new google.maps.LatLng(62.400471, -150.005608));
 
         // The photograph is courtesy of the U.S. Geological Survey.
-        var srcImage = 'https://developers.google.com/maps/documentation/' +
-            'javascript/examples/full/images/talkeetna.png';
+       /* var srcImage = 'https://developers.google.com/maps/documentation/' +
+            'javascript/examples/full/images/talkeetna.png';*/
 
+			var srcImage ='Tmu.png';
         // The custom USGSOverlay object contains the USGS image,
         // the bounds of the image, and a reference to the map.
         overlay = new USGSOverlay(bounds, srcImage, map);
