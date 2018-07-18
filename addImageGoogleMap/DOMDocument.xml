@@ -1,0 +1,26 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="768" height="1024" currentTimeline="1" xflVersion="2.7" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 15.1 build 210" majorVersion="15" minorVersion="1" buildNumber="210" viewAngle3D="72.0268734800715" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="ane.tmp.unzipped.folder" v="C:\Users\KHESHT~1\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
+          <PD n="com.air.sdk.path" v="C:\Kheshti\Export\Air\AdobeAIRSDK_29"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="363" publishTime="1531891854"/>
+          <PublishItem publishSize="359" publishTime="1531891853" publishDebug="true"/>
+          <PublishItem publishSize="86" publishTime="1531891744"/>
+          <PublishItem publishSize="86" publishTime="1531891584"/>
+     </publishHistory>
+</DOMDocument>
