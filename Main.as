@@ -22,7 +22,7 @@
 			displayMapOption.area = new Rectangle(0,0,768,1024);
 			var markerList:Vector.<Marker> = new Vector.<Marker>();
 			
-			markerList.push(new Marker(35.7232423,51.3862085));
+			markerList.push(new Marker(35.7232423,51.382));
 			displayMapOption.showAllMarker = true;
 			displayMapOption.location = markerList;
 			displayMapOption.defaultZoom = 16;
@@ -33,8 +33,8 @@
 			var _image:ByteArray = FileManager.loadFile(_file);
 				var _bas64:Base64Encoder = new Base64Encoder();
 				 _bas64.encodeBytes(_image);*/
-		//	displayMapOption.imageUrl = 'http://uupload.ir/files/25fo_pardismarkazi2.png';
-				 displayMapOption.imageUrl = 'http://uupload.ir/files/21sp_pardismarkazi.jpg';
+			displayMapOption.imageUrl = 'http://uupload.ir/files/25fo_pardismarkazi2.png';
+				// displayMapOption.imageUrl = 'http://uupload.ir/files/21sp_pardismarkazi.jpg';
 			addmarker.setup(this,displayMapOption);
 		}
 
