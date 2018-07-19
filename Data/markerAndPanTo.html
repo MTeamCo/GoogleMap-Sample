@@ -260,9 +260,14 @@ function initAutocomplete()
 	  // Create a map object and specify the DOM element for display.
 		map = new google.maps.Map(document.getElementById('map'), {
 		center: myLatLng,scrollwheel:paramsObj.scrollwheel,zoom:paramsObj.zoom,mapTypeId:mapTypeId,disableDefaultUI: paramsObj.disableDefaultUI});
-		var bounds = new google.maps.LatLngBounds(
+		/*var bounds = new google.maps.LatLngBounds(
             new google.maps.LatLng(35.71900,51.37748),
-            new google.maps.LatLng(35.7238,51.3869));
+            new google.maps.LatLng(35.7238,51.3869));*/
+		var bounds = new google.maps.LatLngBounds(
+            new google.maps.LatLng(paramsObj.latLngBoundsImage.lat1,paramsObj.latLngBoundsImage.lng1),
+            new google.maps.LatLng(paramsObj.latLngBoundsImage.lat2,paramsObj.latLngBoundsImage.lng2));
+			
+			
 
         // The photograph is courtesy of the U.S. Geological Survey.
       /*  var srcImage = 'https://developers.google.com/maps/documentation/' +
